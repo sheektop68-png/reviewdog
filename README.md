@@ -1,4 +1,4 @@
-<div align="center">
+Zayha Movies Platform <div align="center">
   <a href="https://github.com/reviewdog/reviewdog">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/reviewdog.logo.dark.png">
